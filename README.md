@@ -25,3 +25,6 @@ Other points such as old age people in locality,Young Male etc can also be found
 
 We saw different trends between affluency calculated using Mahanolobis distance and above pointswhich can be used to make effective policies based on the segment of population.
 
+Acknowledgement:
+Mr Akhilesh Ajith Kumar 
+Mr Suyash Gulsti 
