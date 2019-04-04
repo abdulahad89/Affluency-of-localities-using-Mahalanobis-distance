@@ -1,7 +1,7 @@
 # Affluency-of-localities-using-Mahalanobis-distance
 Affluence of different localities of New Delhi (Rajendar Nagar, R.K. Puram, Karol Bagh) using three main features i.e. coffee shops,salon rates in locality and the rate of property in locality.
 
-#Creating dataset
+# Creating dataset
 First we got the electoral roll of 3 mentioned constituencies and using OCR we converted it into excel dataset.From that we found out out different part numbers in each constituency.
 
 Based on these part numbers we proceeded as follows :-
